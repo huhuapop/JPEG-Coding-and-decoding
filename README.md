@@ -51,15 +51,15 @@ outdoor_Quafilter_5x5.jpg ---Quafilter 5*5 file by Gaussian filter
 outdoor_Quafilter_9x9.jpg ---Quafilter 9*9 file by median filter
 
 
-Versioning
+Versioning:
 1.0.0
 
-Authors
+Author:
 Huafu Hu 
 Computer Science of Georgia State University
 huhuapop@outlook.com/hhu4@student.gsu.edu 
 
-Quote
+Quote:
 Use some code for Run-length Code model 
 https://www.mathworks.com/matlabcentral/fileexchange/15335-jpeg-encoder-decoder?requestedDomain=www.mathworks.com
 
