@@ -4,16 +4,16 @@ Use Matlab to coding a JPEG and then decoding. This also contains Gaussian filte
 Getting Started
 This program is used for practicing the encoding and processing of digital images. 
 This contains the following process:
-color conversion
-size conversion
-DCT
-Quantize
-Zig-zag
-Run-length Code
-Huffman Code(Not finish yet)
+color conversion,
+size conversion,
+DCT,
+Quantize,
+Zig-zag,
+Run-length Code,
+Huffman Code(Not finish yet),
 
-Gaussian filter
-Median filter
+Gaussian filter,
+Median filter,
 
 Prerequisites
 System Environment: Windows 10
